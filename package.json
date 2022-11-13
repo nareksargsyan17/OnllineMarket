@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "json-server db.json -p 7000 -w true"
+    "start": "json-server db.json -p 7000 -w true",
+    "dev": "webpack-cli"
   },
   "keywords": [],
   "author": "",

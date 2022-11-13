@@ -1,11 +1,269 @@
 {
-    "perfumes" : [
-            {
-                "id" : 1,
-                "brend" : "MAISON FRANCIS KURKDJIAN",
-                "name" : "724",
-                "price" : "120 000 Դ",
-                "img" : "724.jpg"
-            }
-    ]
+  "perfumes": [
+    {
+      "brend": "MAISON FRANCIS KURKDJIAN",
+      "img": "MAISON FRANCIS KURKDJIAN.png",
+      "id": 1,
+      "description": "MAISON FRANCIS KURKDJIAN is a fashionable perfume house that has succeeded in the almost impossible - to become a living legend. Named after its founder, a Frenchman with Armenian roots, it is the embodiment of all the creator's crazy ideas that his boundless imagination throws at him. Before starting his own business in 2009, he was already a star in the fragrance world. He managed to work with such whales of the fashion business as Jean-Paul Gaultier and Elisabeth Aden, as well as with many others. Francis created fragrances for them, which later became bestsellers and business cards of brands. As a child, the boy was completely surrounded by art. Parents, singers of the church choir, had the intention to teach the child to sing and saw his considerable abilities. He also studied classical dance and piano. He liked all this very much, but still not in the same way as the art of fragrance, which he discovered for himself at the age of fifteen. As a result, the Versailles School of Perfumery and worldwide fame. All the fragrances that came out under the MAISON FRANCIS KURKDJIAN brand are examples of high quality, intelligence and ingenuity, as well as great love for their audience.",
+      "products": [
+        {
+          "id": 1,
+          "name": "724",
+          "price": 120000,
+          "img": "724.jpg"
+        },
+        {
+          "id": 2,
+          "name": "Amyris Femme",
+          "price": 105000,
+          "img": "Amyris Femme.jpg"
+        },
+        {
+          "id": 3,
+          "name": "Baccarat Rouge 540",
+          "price": 145000,
+          "img": "Baccarat Rouge 540.jpg",
+          "info": "Baccarat Rouge 540 – это унисексовая композиция от популярного бренда Francis Kurkdjian, вышедшая в 2015 году. Восточный парфюм интригует нетривиальным сочетанием смолистых, гурманско-сладких и душистых цветочных переливов. Вместе они создают невероятный калейдоскоп красок, покоряя сложными переходами и многогранным, глубоким раскрытием. Тягучая хвойная смола замечательно сочетается с медовыми бликами жасмина, роскошный шафран вместе с белым кедром создает пленительный карамельный аккорд, завораживающий красотой.Франсис Куркджан Баккара Руж 540 великолепно сбалансирован: в меру свежий, в меру хвойный, в меру сладкий, капельку дымный. Очаровательный, необычайный и очень элегантный парфюм,"
+        },
+        {
+          "id": 4,
+          "name": "Oud Satin Mood",
+          "price": 130000,
+          "img": "Oud Satin Mood.jpg"
+        },
+        {
+          "id": 5,
+          "name": "Gentle Fluidity Silver",
+          "price": 110000,
+          "img": "Gentle Fluidity Silver.jpg"
+        }
+      ]
+    },
+    {
+      "brend": "CHRISTIAN DIOR",
+      "img": "CHRISTIAN DIOR.png",
+      "id": 2,
+      "description": "Dior is one of the most famous and popular brands in the global fashion industry. The word Dior has long been associated with true luxury. Impeccable style, elegance, sophistication... Dior perfumery is characterized by a bright emotionality that can create a special mood. Christian Dior himself had special feelings for his perfume collection. He believed that it was perfumes that created the female individuality and harmoniously completed the image, bringing all the details together. Christian Dior's journey in perfumery spans over 70 years. The story begins in 1942 when Dior opens his own perfume laboratory. The first fragrance was Miss Dior - a delicate feminine fragrance was released in 1947 in support of the post-war collection that conquered the whole world. Then there were the legendary Diorama, Diorissimo, Dioressence and Diorella - Dior collaborates with the best perfumers and designers to create perfume lines. So it remains today, when the legendary brand has more than 150 fragrances, many of which have already become legends.",
+      "products": [
+        {
+          "id": 1,
+          "name": "Joy by Dior Intense",
+          "price": 58000,
+          "img": "Joy by Dior Intense.jpg"
+        },
+        {
+          "id": 2,
+          "name": "Sauvage Parfum",
+          "price": 65000,
+          "img": "Sauvage Parfum.jpg"
+        },
+        {
+          "id": 3,
+          "name": "Miss Dior",
+          "price": 75000,
+          "img": "Miss Dior.jpg"
+        },
+        {
+          "id": 4,
+          "name": "Poison Girl Eau de Toilette",
+          "price": 32000,
+          "img": "Poison Girl Eau de Toilette.jpg"
+        },
+        {
+          "id": 5,
+          "name": "Dior Addict",
+          "price": 92000,
+          "img": "Dior Addict.jpg"
+        }
+      ]
+    },
+    {
+      "brend": "CHANEL",
+      "img": "CHANEL.png",
+      "id": 3,
+      "description": "Chanel perfume is a real legend that has won the hearts of millions of women around the world. Like clothing, Chanel perfume was designed to be 'comfortable'. In the interpretation of the ingenious Coco, this convenience was reduced to achieving the greatest naturalness, to most fully reveal the natural sensuality and individuality of a woman. Chanel has become an innovator in almost everything. Perfume Chanel No. 5, which opened the perfume line of this brand back in 1921, was the first compound, complex fragrance that was not a pure floral scent. Since that time, more than 50 fragrances have been released under the Chanel brand. One thing remained unchanged - the perfumes produced by Chanel have always remained the epitome of elegance and style. Carefully calibrated, prepared by talented perfumers. Thanks to this approach, each new composition became the best of its kind, and today the phrase 'French perfume' is associated with Chanel.",
+      "products": [
+        {
+          "id": 1,
+          "name": "Chanel Allure pour femme",
+          "price": 85000,
+          "img": "Chanel Allure pour femme.jpg"
+        },
+        {
+          "id": 2,
+          "name": "Coco",
+          "price": 65000,
+          "img": "Coco.jpg"
+        },
+        {
+          "id": 3,
+          "name": "Chance Eau Tendre",
+          "price": 70000,
+          "img": "Chance Eau Tendre.jpg"
+        },
+        {
+          "id": 4,
+          "name": "Chance Eau Fraiche",
+          "price": 850000,
+          "img": "Chance Eau Fraiche.jpg"
+        },
+        {
+          "id": 5,
+          "name": "Chanel No 5 Red Edition",
+          "price": 90000,
+          "img": "Chanel No 5 Red Edition.jpg"
+        }
+      ]
+    },
+    {
+      "brend": "DOLCE & GABBANA",
+      "img": "DOLCE & GABBANA.png",
+      "id": 4,
+      "description": "Dolce & Gabbana is a cult without a doubt. The names of partner designers Dominico Dolce and Estefano Gabbanna have been around since the early 90s, when they created the fashion that we love to this day. The year of birth of the trademark can be called 1985, when their first collection was released. She turned the fashion world upside down and the newly minted brand began to dictate its own style rules, which the whole world began to follow at one moment. It is logical that with such success, it would be a sin to limit ourselves to clothes and shoes, so soon the Dolce & Gabbana brand presented accessories, legendary bags and perfume to the world. All Italian products exude freedom of choice and the freedom to live your own rich life. The woman in Dolce & Gabbana is self-confident, cheerful, active, one who is comfortable in the center of attention and under the gaze of men, who is not afraid to challenge this world and enjoy every minute of her life.",
+      "products": [
+        {
+          "id": 1,
+          "name": "The One for Men Gold",
+          "price": 45000,
+          "img": "The One for Men Gold.jpg"
+        },
+        {
+          "id": 2,
+          "name": "Dolce Peony",
+          "price": 26000,
+          "img": "Dolce Peony.jpg"
+        },
+        {
+          "id": 3,
+          "name": "The One",
+          "price": 42000,
+          "img": "The One.jpg"
+        },
+        {
+          "id": 4,
+          "name": "L'Imperatrice 3",
+          "price": 33000,
+          "img": "L'Imperatrice 3.jpg"
+        },
+        {
+          "id": 5,
+          "name": "Dolce Rose",
+          "price": 35000,
+          "img": "Dolce Rose.jpg"
+        }
+      ]
+    },
+    {
+      "brend": "JIMMY CHOO",
+      "img": "JIMMY CHOO.png",
+      "id": 5,
+      "description": "JIMMY CHOO is now known all over the world, one might even say that the modern period is one of the most successful in the history of the brand. The trademark was born in 1996, when designer Jimmy Choo, together with talented businessman Tamara Mellon, a former editor of Vogue, opened his own boutique in London. The brand specializes in objects of adoration for women around the world - handbags and shoes. JIMMY CHOO was rapidly gaining popularity among British women, but the world fame was ensured by the boundless love of Princess Diana, who often appeared at official events in shoes from JIMMY CHOO. As a result of this success, in the next three years branded boutiques opened in New York and sunny Los Angeles. The wave of popularity captured and carried away world stars, eminent persons of show business and cinema. Sarah Jessica Parker's beloved character Carrie Bradshaw strutted around the streets of New York quite often in JIMMY CHOO shoes, giving the brand incredible publicity. In 2003, the world saw a line of accessories, 2008 - a collection of sunglasses, and in 2011 - a unique fragrance from JIMMY CHOO. The brand has a great tradition of delighting its fans with a wonderful fragrance on every anniversary or other significant date. Perfumes are unique, extremely sensual, and in each of them is the whole essence of a big city.",
+      "products": [
+        {
+          "id": 1,
+          "name": "I Want Choo Forever",
+          "price": 58000,
+          "img": "I Want Choo Forever.jpg"
+        },
+        {
+          "id": 2,
+          "name": "Fever",
+          "price": 38000,
+          "img": "Fever.jpg"
+        },
+        {
+          "id": 3,
+          "name": "Jimmy Choo Blossom",
+          "price": 38000,
+          "img": "Jimmy Choo Blossom.jpg"
+        },
+        {
+          "id": 4,
+          "name": "Jimmy Choo Eau de parfum",
+          "price": 22000,
+          "img": "Jimmy Choo Eau de parfum.jpg"
+        },
+        {
+          "id": 5,
+          "name": "Urban hero Gold edition",
+          "price": 39000,
+          "img": "Urban hero Gold edition.jpg"
+        }
+      ]
+    }
+  ],
+  "bascet": [
+    {
+      "brend": "MAISON FRANCIS KURKDJIAN",
+      "name": "Baccarat Rouge 540",
+      "price": 145000,
+      "img": "Baccarat Rouge 540.jpg",
+      "count": 3,
+      "id": 1
+    },
+    {
+      "brend": "MAISON FRANCIS KURKDJIAN",
+      "name": "724",
+      "price": 120000,
+      "img": "724.jpg",
+      "count": 3,
+      "id": 2
+    },
+    {
+      "brend": "CHRISTIAN DIOR",
+      "name": "Sauvage Parfum",
+      "price": 65000,
+      "img": "Sauvage Parfum.jpg",
+      "count": 3,
+      "id": 3
+    },
+    {
+      "brend": "MAISON FRANCIS KURKDJIAN",
+      "name": "Amyris Femme",
+      "price": 105000,
+      "img": "Amyris Femme.jpg",
+      "count": 1,
+      "id": 4
+    },
+    {
+      "brend": "DOLCE & GABBANA",
+      "name": "L'Imperatrice 3",
+      "price": 33000,
+      "img": "L'Imperatrice 3.jpg",
+      "count": 1,
+      "id": 5
+    },
+    {
+      "brend": "JIMMY CHOO",
+      "name": "Jimmy Choo Blossom",
+      "price": 38000,
+      "img": "Jimmy Choo Blossom.jpg",
+      "count": 1,
+      "id": 6
+    },
+    {
+      "brend": "CHANEL",
+      "name": "Chance Eau Tendre",
+      "price": 70000,
+      "img": "Chance Eau Tendre.jpg",
+      "count": 1,
+      "id": 7
+    },
+    {
+      "brend": "DOLCE & GABBANA",
+      "name": "The One",
+      "price": 42000,
+      "img": "The One.jpg",
+      "count": 1,
+      "id": 8
+    },
+    {
+      "brend": "CHRISTIAN DIOR",
+      "name": "Poison Girl Eau de Toilette",
+      "price": 32000,
+      "img": "Poison Girl Eau de Toilette.jpg",
+      "count": 1,
+      "id": 9
+    }
+  ]
 }
