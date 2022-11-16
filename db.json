@@ -10,32 +10,36 @@
           "id": 1,
           "name": "724",
           "price": 120000,
-          "img": "724.jpg"
+          "img": "724.jpg",
+          "info": "724 Maison Francis Kurkdjian is a fragrance for men and women .724 launched in 2022. Perfumer: Francis Kurkdjian. Top notes are aldehydes and Calabrian bergamot; middle notes are sweet pea, mock orange and egyptian jasmine; base notes are white musk and sandalwood."
         },
         {
           "id": 2,
           "name": "Amyris Femme",
           "price": 105000,
-          "img": "Amyris Femme.jpg"
+          "img": "Amyris Femme.jpg",
+          "info": "These are incredibly beautiful, elegant and refined perfumes with a gentle and charming character, which are included in the group of floral scents. With them, it is easy to imagine the green flowering gardens of Spain or Italy, when the warm air is filled with the fragrance of colorful buds and field herbs. The fragrance was created by perfumer Francis Kurkdijan. The muse for the masterpiece was his sister - an ordinary woman, a housewife, a mother of two children who wants to look good. Francis created a fragrance just for such ladies - Maison Francis Kurkdjian Amyris Femme is both natural and practical, laid-back, very delicate with powdery accents, a wonderful sillage and excellent durability. The perfume composition reveals itself feminine and elegant, it is unobtrusive, pure and beautiful, like a blooming spring. Her time is a warm summer day. Fresh, impressive, invigorating, noble fragrance gives a feeling of happiness and joy, creating an aura of temptation and irresistibility around its owners."
         },
         {
           "id": 3,
           "name": "Baccarat Rouge 540",
           "price": 145000,
           "img": "Baccarat Rouge 540.jpg",
-          "info": "Baccarat Rouge 540 – это унисексовая композиция от популярного бренда Francis Kurkdjian, вышедшая в 2015 году. Восточный парфюм интригует нетривиальным сочетанием смолистых, гурманско-сладких и душистых цветочных переливов. Вместе они создают невероятный калейдоскоп красок, покоряя сложными переходами и многогранным, глубоким раскрытием. Тягучая хвойная смола замечательно сочетается с медовыми бликами жасмина, роскошный шафран вместе с белым кедром создает пленительный карамельный аккорд, завораживающий красотой.Франсис Куркджан Баккара Руж 540 великолепно сбалансирован: в меру свежий, в меру хвойный, в меру сладкий, капельку дымный. Очаровательный, необычайный и очень элегантный парфюм,"
+          "info": "Baccarat Rouge 540 is a unisex fragrance from the popular brand Francis Kurkdjian, released in 2015. Oriental perfume intrigues with a non-trivial combination of resinous, gourmand-sweet and fragrant floral overflows. Together they create an incredible kaleidoscope of colors, captivating with complex transitions and multifaceted, deep disclosure. The viscous coniferous resin blends wonderfully with the honey highlights of jasmine, luxurious saffron, together with white cedar, creates a captivating caramel chord that bewitches with beauty.Francis Kurkdzhan Baccarat Rouge 540 is perfectly balanced: moderately fresh, moderately coniferous, moderately sweet, a little smoky. Charming, extraordinary and very elegant perfume"
         },
         {
           "id": 4,
           "name": "Oud Satin Mood",
           "price": 130000,
-          "img": "Oud Satin Mood.jpg"
+          "img": "Oud Satin Mood.jpg",
+          "info": "Francis Kurkdjian presents his creation - perfume for men and women Oud Satin Mood! The extravaganza of fragrances woven by the maestro into a single wonderful composition is amazing. Stylish, fashionable, modern - it reveals itself subtly and sensually, plays softly and insinuatingly. Benzoin, Bulgarian rose, deep sweetness of vanilla, unpredictable, resinous-smoky depth of agar wood, enveloping seductive dope of Turkish rose, refined tenderness of violet - all this is a magnificent composition of Oud Satin Mood, making everyone turn around in the wake of its owner. Men and women will find something of their own, personal, important in this fragrance. Character, dreams, goals, aspirations. Everything is intertwined in it - both reality, and fantasies, and the past, and the future. Even the bottle of Oud Satin Mood fragrance looks so mysterious, as if the most important secret is hidden in it. . ."
         },
         {
           "id": 5,
           "name": "Gentle Fluidity Silver",
           "price": 110000,
-          "img": "Gentle Fluidity Silver.jpg"
+          "img": "Gentle Fluidity Silver.jpg",
+          "info": "Maison Francis Kurkdjian presented a pair of delightful perfume delights. Each of them consists of identical components, but they are the embodiment of diverse perfume worlds. They go beyond the perception of male and female. Silver and gold are two precious metals with different auras. Gentle Fluidity Silver is an oriental musky unisex fragrance with a bright, fresh, balanced sound."
         }
       ]
     },
@@ -49,31 +53,36 @@
           "id": 1,
           "name": "Joy by Dior Intense",
           "price": 58000,
-          "img": "Joy by Dior Intense.jpg"
+          "img": "Joy by Dior Intense.jpg",
+          "info": "Fashion legend Christian Dior has unveiled Joy Intense. This oriental floral composition was created for women by the talented perfumer Francois Demachy. The discreet pink bottle this time contains a light, sweet, pulsating and romantic fragrance. If you have not stopped believing in miracles, then get ready to open your heart to fragrant magic."
         },
         {
           "id": 2,
           "name": "Sauvage Parfum",
           "price": 65000,
-          "img": "Sauvage Parfum.jpg"
+          "img": "Sauvage Parfum.jpg",
+          "info": "Sauvage Parfum is a luxury citrus spicy woody eau de parfum for men, introduced in 2019 by French fashion house Christian Dior. Sauvage Parfum is a gorgeously elegant, passionate masculine fragrance designed by legendary perfumer Francois Demachy, inspired by the boundless open spaces of rocky desert landscapes, the heat and scorching sun against cloudless blue skies. With a fresh clean citrus breath of bergamot and juicy sweet mandarin, a concise, perfectly balanced perfume composition opens, which is saturated with creamy shades of exotic sandalwood wood. Deep woody-balsamic notes of divine frankincense essential oil and oriental hints of bittersweet tonka bean complete the uniquely elegant Christian Dior Sauvage Parfum for men."
         },
         {
           "id": 3,
           "name": "Miss Dior",
           "price": 75000,
-          "img": "Miss Dior.jpg"
+          "img": "Miss Dior.jpg",
+          "info": "Christian Dior opens a fresh page in French perfumery by presenting the Miss Dior Eau De Parfum fragrance to the discerning public, which is significantly different from the Miss Dior perfume, which has already become a world legend. The fragrance sounds like an amazing citrus tandem, with a light pink peppercorn, a duet of Grasse and Damascus roses among the flowers of royal jasmine, and all this unsurpassed fragrance is framed by dry woodiness of rosewood and patchouli. Christian Dior Miss Dior Eau De Parfum is a new interpretation of true feminine beauty and attractiveness."
         },
         {
           "id": 4,
           "name": "Poison Girl Eau de Toilette",
           "price": 32000,
-          "img": "Poison Girl Eau de Toilette.jpg"
+          "img": "Poison Girl Eau de Toilette.jpg",
+          "info": "Christian Dior Poison Girl Eau de Toilette is a sweet, rich, colorful and intoxicating oriental floral fragrance for women from the legendary Christian Dior brand, presented to a wide audience in January 2018."
         },
         {
           "id": 5,
           "name": "Dior Addict",
           "price": 92000,
-          "img": "Dior Addict.jpg"
+          "img": "Dior Addict.jpg",
+          "info": "Dior Addict is a territory of sensuality, a kind of seduction, a bright and vibrant fragrance. The fragrance opens with sensual accords of mandarin leaves and orange blossom. Her heart is fragrant with elegant and refined notes of jasmine. The image is completed by interspersed with delicately spicy vanilla, which leaves behind a trail of incredible beauty. Christian Dior's Addict Haut de Perfume is the perfect complement to your evening look. These perfumes have a bold, bright and playful character. Exquisite aroma will make its hostess the object of everyone's attention and admiration at any event."
         }
       ]
     },
@@ -87,31 +96,36 @@
           "id": 1,
           "name": "Chanel Allure pour femme",
           "price": 85000,
-          "img": "Chanel Allure pour femme.jpg"
+          "img": "Chanel Allure pour femme.jpg",
+          "info": "A chameleon perfume that changes throughout the day. The best gift is Chanel's Allure fragrance for women. A gem with many facets: bergamot and lemon are refreshing, mandarin and peach give the fragrance a light fruity note, May rose and jasmine for unique tenderness, water lily awakens the imagination, sandalwood and vetiver set off the composition with their woody notes, vanilla enhances the oriental note. On each woman, the perfume is felt differently and never repeats, offering each unique sound that gradually unfolds throughout the day."
         },
         {
           "id": 2,
           "name": "Coco",
           "price": 65000,
-          "img": "Coco.jpg"
+          "img": "Coco.jpg",
+          "info": "Chanel COCO is constantly changing and shimmers like a precious stone. Classic. Top notes open with a variety of juicy fruity and floral aromas: peach, mandarin, mimosa and orange blossom intertwined in a whimsical combination. In the heart note, spicy aromas of cloves are mixed with delicate flowers: mimosa, clover and rose. The trail completes the perfume with notes of vanilla, amber and sandalwood. Jacques Polge said: Coco tries within the Western world the aromas of amber and spices, which until then were exclusively oriental."
         },
         {
           "id": 3,
           "name": "Chance Eau Tendre",
           "price": 70000,
-          "img": "Chance Eau Tendre.jpg"
+          "img": "Chance Eau Tendre.jpg",
+          "info": "Chanel chance eau tendre is a new fruity-floral interpretation of the famous Chance fragrance, made in romantic pink shades. A lighter and more delicate version is reminiscent of the ghostly veil of an early Parisian morning celebrating the birth of a new day. The intoxicating morning air is woven from hundreds of different aromas mixed with each other into a single, appetizing composition: the aroma of Chance Eau Tendre contains the sweet smells of small bakeries, the intoxicating haze of cozy coffee shops, and the lush greenery of gardens and parks. The touching figure of a fragile girl is visible in one of the open windows."
         },
         {
           "id": 4,
           "name": "Chance Eau Fraiche",
           "price": 850000,
-          "img": "Chance Eau Fraiche.jpg"
+          "img": "Chance Eau Fraiche.jpg",
+          "info": "Более легкая версия аромата Chance! Новая весна дарит нам новый шанс! Легкая и нежная композиция, основанная на нотах лимона, водяного гиацинта, абсолю жасмина, белого мускуса, ветивера, амбры, пачули и тикового дерева подчеркнет женственность и утонченность своей обладательницы и подарит заряд энергии и свежести.Chance Eau Fraiche - отличный выбор для жарких дней! Автор аромата – штатный парфюмер Chanel Жак Польж."
         },
         {
           "id": 5,
           "name": "Chanel No 5 Red Edition",
           "price": 90000,
-          "img": "Chanel No 5 Red Edition.jpg"
+          "img": "Chanel No 5 Red Edition.jpg",
+          "info": "The already familiar bottle of the legendary perfume sophistication Chanel N°5 has been dyed burgundy. And his name is Red Edition Eau de Parfum. Perfumer Olivier Polge presented an aldehyde-floral composition created from notes of ylang-ylang, peach, floral accents, burgundy rose with sandalwood-vanilla echoes to the discerning public. The fragrance is addressed to young modern, business women."
         }
       ]
     },
@@ -125,31 +139,36 @@
           "id": 1,
           "name": "The One for Men Gold",
           "price": 45000,
-          "img": "The One for Men Gold.jpg"
+          "img": "The One for Men Gold.jpg",
+          "info": "In the legendary perfume series The One, created by the fashion house Dolce & Gabbana, a replenishment is the men's fragrance The One for Men Gold. This is a masculine composition, the fragrance of which makes its own pleasant adjustments to every day of its wearer, offering to become one step closer to the very ideal. The perfume was released in a limited edition and offers something Asian and definitely oriental. From its predecessor, Dolce & Gabbana The One for Men, only the iconic bottle has been taken, but now it is presented in a luxurious golden hue. This delight will be your choice, in the daily bustle and the world without restrictions."
         },
         {
           "id": 2,
           "name": "Dolce Peony",
           "price": 26000,
-          "img": "Dolce Peony.jpg"
+          "img": "Dolce Peony.jpg",
+          "info": "Dolce Peony is an exciting and romantic floral-fruity fragrance for women, launched in 2019 under the brand name of the famous Italian fashion brand Dolce Gabbana (D&G). The fragrance places the peony flower on a pedestal as a symbol of positive energy. Nostalgic and feminine, the composition abounds with freshness and juicy fruity notes, rich colors and the softness of honey."
         },
         {
           "id": 3,
           "name": "The One",
           "price": 42000,
-          "img": "The One.jpg"
+          "img": "The One.jpg",
+          "info": "Dolce & Gabbana The One is a luxurious fragrance for a luxurious woman. The concept of this fragrance is luxury! This idea is perfectly conveyed by the notes that make up the fragrance.According to the creators, this lofty goal has been achieved, including in the design.The face of the fragrance is the most popular Brazilian model Gisele Budhem."
         },
         {
           "id": 4,
           "name": "L'Imperatrice 3",
           "price": 33000,
-          "img": "L'Imperatrice 3.jpg"
+          "img": "L'Imperatrice 3.jpg",
+          "info": "Opening the show of the new collection - Dolce & Gabbana The D&G Anthology! 5 celebrities! 5 new mysterious scents! The magic of numbers and the magical spell of the Tarot! Naomi Campbell reveals card number 3 - The Empress! Incarnated in spirits, she became known as L'Imperatrice 3! Seated majestically on a throne or proudly bearing her starry crown, she is so exalted, so impregnable and so dazzlingly beautiful that her loyal subjects bow their heads, welcoming the appearance of Her Majesty. Goddess of beauty L'Imperatrice!"
         },
         {
           "id": 5,
           "name": "Dolce Rose",
           "price": 35000,
-          "img": "Dolce Rose.jpg"
+          "img": "Dolce Rose.jpg",
+          "info": "If you love fruits, then Dolce Rose, a floral-fruity perfume composition for women, created by the fashion house Dolce & Gabbana, will certainly win your heart. Its soft and juicy fruity fragrance is simply impossible to resist, just let it fill your every day with pleasant impressions. The presented perfume is addressed to a freedom-loving woman who is in love with the world around her and gives her love to it. The sound will emphasize her character and beauty, calling to believe that dreams come true! You just have to believe and wait..."
         }
       ]
     },
@@ -163,107 +182,72 @@
           "id": 1,
           "name": "I Want Choo Forever",
           "price": 58000,
-          "img": "I Want Choo Forever.jpg"
+          "img": "I Want Choo Forever.jpg",
+          "info": "I Want Choo Forever is a fragrance for your great style. This is a perfume solution that you can not doubt. A noble, complex and interesting masterpiece, the continuation of the Jimmy Choo I Want Choo series, which has become a success all over the world. Unlike its predecessors, this work does not have many components, only three, but they are intertwined in a bizarre and interesting way. The starting part is collected at the intersection of delicate rose oil, perfectly matched and fresh. The middle is tart green moss, mixed with the tonality of wood. And the final conveys the oriental flavor of musk. Style and perfection, that's what makes the spirit you can like, become a calling card for a long time. Aromat.ua Take a step towards your special image. “This fragrance embodies a sense of confidence and elegance unlike any other. I Want Choo Forever Woman is fearless, seductive and a little unexpected. And you?."
         },
         {
           "id": 2,
           "name": "Fever",
           "price": 38000,
-          "img": "Fever.jpg"
+          "img": "Fever.jpg",
+          "info": "The French brand Jimmy Choo introduced the women's fragrance Fever. Its name translates as heat. This floral-oriental perfume, created by the talented perfumer Natalie Lorson, has become a kind of challenge fragrance that beckons us to do what we want and what we desire. The sound of the presented sophistication will create a feeling of happiness and freedom, you will remember it forever as the most reverent and deepest feelings."
         },
         {
           "id": 3,
           "name": "Jimmy Choo Blossom",
           "price": 38000,
-          "img": "Jimmy Choo Blossom.jpg"
+          "img": "Jimmy Choo Blossom.jpg",
+          "info": "Jimmy Choo Blossom is a new perfume celebrating the awakening of nature after long cold winter days. The fragrance is for spring. Perfume composition Jimmy Choo Blossom opens with bright citrus shades and notes of red fruits with a dominant motif of raspberries. The heart of the fragrance is a delicate floral, sweet pea and rose in its center. Persistent trail - from notes of sandalwood and white musk."
         },
         {
           "id": 4,
           "name": "Jimmy Choo Eau de parfum",
           "price": 22000,
-          "img": "Jimmy Choo Eau de parfum.jpg"
+          "img": "Jimmy Choo Eau de parfum.jpg",
+          "info": "Many fashionistas of the world waited for the release of the first Jimmy Choo fragrance. Chypre Fruity is a fragrance for stylish women. Base notes: green notes, orchid, candy iris, patchouli leaf and fruity notes."
         },
         {
           "id": 5,
           "name": "Urban hero Gold edition",
           "price": 39000,
-          "img": "Urban hero Gold edition.jpg"
+          "img": "Urban hero Gold edition.jpg",
+          "info": "The famous talented perfumer Juliette Karagueuzoglou created Jimmy Choo Urban Hero Gold Edition for men from the big city. The presented perfume has become a logical continuation of the sensational hit Jimmy Choo Urban Hero and, without the slightest doubt, has a special mood and unforgettable color, to the last drop. What follows is the outline of lavender smoke and tropical bean tongues at the intersection of sandalwood and oakmoss, with its alluring tartness. The recognizable shape of the bottle remained from its predecessor, this time presented in a black and yellow semitone."
         }
       ]
     }
   ],
   "bascet": [
     {
-      "brend": "MAISON FRANCIS KURKDJIAN",
-      "name": "Baccarat Rouge 540",
-      "price": 145000,
-      "img": "Baccarat Rouge 540.jpg",
-      "count": 3,
-      "id": 1
-    },
-    {
-      "brend": "MAISON FRANCIS KURKDJIAN",
-      "name": "724",
-      "price": 120000,
-      "img": "724.jpg",
-      "count": 3,
-      "id": 2
-    },
-    {
-      "brend": "CHRISTIAN DIOR",
-      "name": "Sauvage Parfum",
-      "price": 65000,
-      "img": "Sauvage Parfum.jpg",
-      "count": 3,
-      "id": 3
-    },
-    {
-      "brend": "MAISON FRANCIS KURKDJIAN",
-      "name": "Amyris Femme",
-      "price": 105000,
-      "img": "Amyris Femme.jpg",
-      "count": 1,
-      "id": 4
-    },
-    {
-      "brend": "DOLCE & GABBANA",
-      "name": "L'Imperatrice 3",
-      "price": 33000,
-      "img": "L'Imperatrice 3.jpg",
-      "count": 1,
-      "id": 5
-    },
-    {
-      "brend": "JIMMY CHOO",
-      "name": "Jimmy Choo Blossom",
-      "price": 38000,
-      "img": "Jimmy Choo Blossom.jpg",
-      "count": 1,
-      "id": 6
-    },
-    {
       "brend": "CHANEL",
       "name": "Chance Eau Tendre",
       "price": 70000,
       "img": "Chance Eau Tendre.jpg",
       "count": 1,
-      "id": 7
-    },
-    {
-      "brend": "DOLCE & GABBANA",
-      "name": "The One",
-      "price": 42000,
-      "img": "The One.jpg",
-      "count": 1,
-      "id": 8
+      "id": 1
     },
     {
       "brend": "CHRISTIAN DIOR",
-      "name": "Poison Girl Eau de Toilette",
-      "price": 32000,
-      "img": "Poison Girl Eau de Toilette.jpg",
+      "name": "Miss Dior",
+      "price": 75000,
+      "img": "Miss Dior.jpg",
+      "count": 2,
+      "id": 3
+    },
+    {
+      "brend": "CHRISTIAN DIOR",
+      "name": "Joy by Dior Intense",
+      "price": 58000,
+      "img": "Joy by Dior Intense.jpg",
       "count": 1,
-      "id": 9
+      "id": 4
+    },
+    {
+      "brend": "MAISON FRANCIS KURKDJIAN",
+      "name": "Baccarat Rouge 540",
+      "price": 145000,
+      "img": "Baccarat Rouge 540.jpg",
+      "count": 1,
+      "id": 5
     }
   ]
 }

@@ -1,4 +1,3 @@
-
 import Brends from './Brends';
 export default async function Menu(){
     const brends = document.querySelector("#brends");
@@ -10,13 +9,14 @@ export default async function Menu(){
             <div class="menuDiv"><img class="menuImg" src="./src/img/${brend.img}" alt=${brend.brend}></div>`
         });
         return data
-    }).then(data => {
+    })
+    .then(data => {
         const brendsArr = [...document.querySelectorAll("#brends > div")]
         brendsArr.forEach((item,index)=>{
-            item.firstElementChild.addEventListener("click", async ()=>{
-                console.log(data[index]);
-                Brends(data[index]);
+            item.firstElementChild.addEventListener("click", ()=>{
+                Brends(data[index], data);
             })
         })
-    })
+        return data;
+    }) 
 }
